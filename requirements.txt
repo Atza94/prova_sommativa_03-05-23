@@ -5,3 +5,4 @@ mlem
 pandas
 scikit-learn
 plotly
+seaborn
